@@ -8,3 +8,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning python and javascript
 
 ![Javier's github stats](https://github-readme-stats.vercel.app/api?username=JavierFernandezB&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierFernandezB)](https://github.com/JavierFernandezB/github-readme-stats)
