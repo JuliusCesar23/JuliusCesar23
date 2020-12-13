@@ -2,10 +2,10 @@
 
 
 
-Here are some ideas to get you started:
+This is me:
 
 - 🔭 I’m currently working on some personal projects
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m currently learning python and c++
 
 ![Javier's github stats](https://github-readme-stats.vercel.app/api?username=JavierFernandezB&show_icons=true&theme=radical)
 <br/>
